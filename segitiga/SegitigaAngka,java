@@ -1,0 +1,20 @@
+/*
+    1
+    22
+    333
+    4444
+    55555
+    666666
+    7777777  
+*/
+public class SegitigaAngka {
+    public static void main(String[] args) {
+        int N = 7;
+        for(int y = 0; ++y <= N;) {
+            for(int x = 0; ++x <= y;) {
+                System.out.print(y);
+            }
+            System.out.println("");
+        }
+    }
+}
