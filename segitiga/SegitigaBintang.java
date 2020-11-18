@@ -1,3 +1,10 @@
+/*
+    *
+    **
+    ***
+    ****
+    *****
+*/
 public class SegitigaBintang {
     public static void main(String[] args) {
         int N = 5;
